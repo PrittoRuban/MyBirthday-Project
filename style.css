@@ -1,0 +1,32 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+  *{
+    text-align: center;
+  }
+  h1{
+    color: rgb(0, 238, 255);
+  }
+  h2{
+    color: darkviolet;
+  }
+  li{
+    color: rgb(64, 255, 0);
+  }
+  h3{
+    color: rgb(20, 220, 177);
+  }
+  h4{
+    color: rgb(226, 43, 192);
+  }
+  a{
+    color: rgb(10, 117, 239);
+  }
+  html{
+    background-color: black;
+  }
+  ol{
+    font-size: 20px;
+  } 
